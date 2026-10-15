@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ApiGateway/ApiGateway.csproj" />
+  <Project Path="Catalog.API/Catalog.API.csproj" />
+  <Project Path="Orders.API/Orders.API.csproj" />
+</Solution>
